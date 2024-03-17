@@ -76,9 +76,9 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => 'Admin1234#@',
-	'database' => 'masonry_album',
+	'username' => 'u445536153_photographer',
+	'password' => 'EAvD&tlg2=x',
+	'database' => 'u445536153_masonry_album',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
